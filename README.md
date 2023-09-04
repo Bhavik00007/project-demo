@@ -1,2 +1,2 @@
 # project-demo
-this is demo Git &amp; Github project
+this is demo Git &amp; Github project.
